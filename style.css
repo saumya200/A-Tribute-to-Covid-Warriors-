@@ -1,0 +1,60 @@
+.body1 {
+    background-color: #d5ecc2;
+    align-items: center;
+    
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: grey;
+    width: 99%;
+    position: fixed;
+    
+    
+    
+}
+
+
+.head{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+}
+
+.img1{
+    float: right;
+    height: 5%;
+    width: 17%;
+    
+}
+.img2{
+    padding-top: 8%;
+    height: 30%;
+    width: 50%;
+    margin-left: 30%;
+}
+
+.body2{
+    padding-bottom: 15%;
+    padding-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 18px;
+}
+
+.heading1{
+    text-align: center;
+}
+
+.pa3{
+    padding-top: 4%;
+}
+
+.pa4{
+    padding-top:4%;
+    text-indent: 4%;
+}
+
+.iframe{
+    padding-top:100px;
+}
